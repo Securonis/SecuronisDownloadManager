@@ -1,0 +1,9 @@
+PyQt5==5.15.9
+requests==2.31.0
+pysocks==1.7.1
+stem==1.8.1
+cryptography==41.0.3
+beautifulsoup4==4.12.2
+psutil==5.9.5
+qtawesome==1.2.3
+python-magic==0.4.27 
